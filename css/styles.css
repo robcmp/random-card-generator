@@ -1,0 +1,7 @@
+body {
+    background: green !important;
+  }
+.card {
+    width: 300px;
+    font-size: 50px;
+  }
